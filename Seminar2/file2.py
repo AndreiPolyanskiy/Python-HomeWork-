@@ -3,7 +3,10 @@
 n = int(input('Введите число N: '))
 
 x = 1
+arr = []
 
 for i in range(1, n+1):
     x = x * i
-    print(f'Произведение чисел от 1 до {i} равно: {x}')
+    arr.append(x)
+
+print(arr)    
