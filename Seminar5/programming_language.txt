@@ -1,0 +1,32 @@
+Action Script
+C++/CLI
+C#
+ColdFusion
+D
+Dart
+Object Pascal
+Dylan
+Eiffel
+Game Maker Language (GML)
+Groovy
+Haxe
+Io
+Java
+JavaScript
+MC#
+Object Pascal
+Objective-C
+Perl
+PHP
+Pike
+Python
+Ruby
+Self
+Simula
+Smalltalk
+Swift
+Vala
+Visual Basic
+Visual DataFlex
+Zonnon
+Ada
